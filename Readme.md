@@ -571,8 +571,11 @@ Main purpose: To steal information, cause damage, or gain unauthorized benefits.
 ### Project Files
 
 - [README.md](./README.md)
-- [Source Code](./src/)
-- [Assets](./assets/)
-- [Tests](./tests/)
+- [.gitignore](./.gitignore)
+- [style yapf](./.style.yapf)
 - [Demo](./DEMO.md)
+- [Justfile](./Justfile/)
+- [License](./LICENSE)
+- [PyProject toml](./pyproject.toml)
+- [uv lock](./uv.lock)
 
