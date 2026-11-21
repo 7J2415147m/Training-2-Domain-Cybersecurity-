@@ -570,7 +570,7 @@ Main purpose: To steal information, cause damage, or gain unauthorized benefits.
 
 ### Project Files
 
-- [README.md](./README.md)
+- [README.md](./Readme.md)
 - [.gitignore](./.gitignore)
 - [style yapf](./.style.yapf)
 - [Demo](./DEMO.md)
