@@ -17,7 +17,8 @@ It helps prevent threats such as hacking, phishing, malware, ransomware, and dat
 Cyber Security is not just about protecting technology; it's about building trust and creating a safer digital world.
 
 **"Think Secure. Stay Protected. Build a Safer Digital Future."** 🔐
-blob:https://chatgpt.com/4cfd33e3-4e3f-4530-980c-94d18af78828
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/752b6ae5-d258-40dc-9136-beba9e442245" />
+
 # Day 2
 
 ## 🔐 Need of Cyber Security
@@ -83,7 +84,8 @@ Cyber threats are potential dangers or malicious activities that can damage comp
 Cyber threats are a major challenge in today's digital world. Understanding these threats and following proper security practices helps protect our data, devices, and online identity.
 
 "Think Before You Click – Stay Safe, Stay Secure!" 🛡️
-blob:https://chatgpt.com/aefb0b92-c2a9-421c-aedf-66076cde03e2
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/45ae6065-7cc4-4568-aaba-8aa19da0d0fd" />
+
 # Day 5
 # How many types of Attacks?
 ## In Cyber Security, there are 10 common types of cyber attacks.
@@ -98,7 +100,7 @@ blob:https://chatgpt.com/aefb0b92-c2a9-421c-aedf-66076cde03e2
 8. Password Attack – Attempting to gain unauthorized access to accounts.
 9. Cross-Site Scripting (XSS) – Injecting malicious scripts into web pages.
 10. Social Engineering Attack – Manipulating people into revealing confidential information.
-blob:https://chatgpt.com/0eb01f6e-4fe7-43de-9558-179184e6491d
+
 # Day 6
 # 🖥️ What is Virtualisation?
 Virtualisation is a technology that allows us to create multiple virtual computers (virtual machines) on a single physical computer using software.
@@ -110,7 +112,8 @@ Suppose you have one Windows computer. Using virtualisation software like Virtua
 - Kali Linux (Virtual machine)
 - Ubuntu Linux (Virtual machine)
 All these operating systems can run on the same physical computer.
-https://images.openai.com/static-rsc-4/SWsNkfHXY66k0p_WbfnmqEQeN6OyArXuq7o5A6dhSDO4caVOQ-1HVpyaZxR77u-mfm0NeBml-oR0UgI_2EcLl5MAhy6PsALVKW-4mt5MPfyjg1WeKKMvH1s_1LnR4B1EM3c2QA5CV9HaPzmFgF6lqUdI0nqoN6l_dT2R0TCenUfFX6kM64ocCBBI-0CgXwY9?purpose=fullsize
+<img width="1746" height="894" alt="image" src="https://github.com/user-attachments/assets/321c8fc6-e419-4304-8b2c-4c9d3895ab1c" />
+
 ## 2. Why Do We Use Virtualisation?
 1. Cost Saving: Reduces the need to purchase multiple physical computers.
 2. Resource Sharing: Allows multiple virtual machines to share hardware resources.
@@ -131,15 +134,18 @@ A virtual computer that runs inside the host machine using virtualisation softwa
 
 Example: Kali Linux or Ubuntu running inside VirtualBox.
 ## 4. Popular Virtualisation Software
-https://images.openai.com/static-rsc-4/JTYQTUgw7Ji4XvOCQWB0tXZxJtYvwYPA8Z-M_9p4TUfXsX2Dfa_dyMMpxgvNDR8VqbLW57oSFLIslao9bUWM0a8R9TGrvDz-xbnZk-nh60IhoTQyPwkFtWwTnQ5DOWZUXzeJihqBkxaKg0T1Rh_KsPok13ci5pu4gI_pmFO0fsu62nBloTuoxIGxdjS8ybWy?purpose=fullsize
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/faa8bd52-8b4d-4343-89a6-5ac56177594d" />
+
 Oracle VirtualBox
 
 Free and open-source virtualisation software.
-https://images.openai.com/static-rsc-4/xR3oAzxeWBjSumYCHeem5WMmdG_PxXel7oLAypPkaD6Vv0aDU4zahGJWm5IZY7CZNflT4I9vZJdeAAOaNP4JcRh9jpTpwDBG-Tlbkz7_mW7Oa-MXt6PPR3RnF8O-K5onGSK6RCs7lKqlwG_sLplaU_23T-x0kaUYXMyPMmS9iT94_skWb83yL7UV9PFWBo0q?purpose=fullsize
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/62480ea2-22ef-4f58-a991-9d96665da7b9" />
+
 VMware Workstation
 
 Software used to create and manage virtual machines.
-https://images.openai.com/static-rsc-4/cksmxtly1BYXRWJS-WufE7sPO0_xadja2It3f0djeUFn-dqPXRRdwxWDqbFuq21jXLbZwqsMTg7AkRyDFib_ND5pqWBdBPEB3xpbU1gL45baMqLEcCJh980M4u8nUzDM_tz0jaBOj_Zimi-0vwp_JNskQcMCv6C4sTnVHHMwV_sYXXjubZZvLyLH-I7xBdIk?purpose=fullsize
+<img width="770" height="522" alt="image" src="https://github.com/user-attachments/assets/48075479-c53e-4634-908f-75ecf516f2c4" />
+
 Microsoft Hyper-V
 
 Microsoft's virtualisation technology.
@@ -158,7 +164,8 @@ There are 2 main types of Hypervisors.
 - Does not require a traditional host operating system.
 - Provides high performance and efficiency.
 - Mostly used in servers and data centres.
-- https://images.openai.com/static-rsc-4/42LPhpQC8P6LBojGdt7trHwp9MqXkZgaoGNYrjdouNmKTVCw_DVwKm_y1ZTxYFbIX1M6ZfwWJCZ_z8A2xzajVB_8mLNvVQRNTm8uKUW7eFJ54JJxiAqfjvE3SvaTHlwKfm1v9BtMnBXFIZOwklbUA1fLl0gMSnlKnRhcKPTmQk04-DtvNjBjvRDqt3hcGN5m?purpose=fullsize
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/7f0921a0-9f5a-472f-a437-1793e403d80e" />
+
   Examples:
 **.** VMware ESXi
 **.** Microsoft Hyper-V (Server deployment)
@@ -167,7 +174,8 @@ There are 2 main types of Hypervisors.
 - Runs on an existing operating system.
 - Easy to install and use.
 - Mostly used for learning, testing, and personal purposes.
-https://images.openai.com/static-rsc-4/x-hFG8KFpSsjh6eZ_ZCYqNZeUQvxLggo3_820iHBESTdSYXnWKWsN03SyYxOC8ZbNsClWZ-chtKP4N_kZfYoOM1X1IdWGLVrLdO0xZIugWYtrZDwQow5vv_aGqwBCkvvtEY0no1W5dNWGaSxPGDgJuP68vUHU7LtrEIFmJRgoH5XqUzrfGDJogiMibUzRD90?purpose=fullsize
+<img width="1500" height="775" alt="image" src="https://github.com/user-attachments/assets/dcc3d41e-833b-4dee-ba81-196610c7436f" />
+
 Examples:
 **.** Oracle VirtualBox
 **.**  VMware Workstation
@@ -203,13 +211,15 @@ Remember:
 VirtualBox is free virtualisation software that allows you to create and run multiple operating systems on one physical computer.
 
 For example, you can run Kali Linux or Ubuntu inside your Windows computer
-https://images.openai.com/static-rsc-4/WD4_xIhnxClrmpN5rl_v8mgtLFvRSoVglhJXrrKKdr9oZmpGLQPdBm7PBTuESp6VeGVpPhXfW4-7eYr6xTc1mos14n8gZatwuEb5kdia67NO1eiDJlaNw6ZydH4SWd3W3NEzzcoCkgIZD1NuOvBxI8nnb2yNEve-vd46wYaepOLeM685F9Uhrg3E5rWR1-Va?purpose=fullsize
+<img width="936" height="601" alt="image" src="https://github.com/user-attachments/assets/8c881261-7821-4c64-9a4d-eb4331c841fe" />
+
 ## Step 1: Download VirtualBox
 1. Open your web browser.
 2. Visit the official website: Download VirtualBox.
 3. Select Windows Hosts if you are using Windows.
 4. Download and install VirtualBox.
-https://images.openai.com/static-rsc-4/tFibKLCEiAHj9O3eWDWoWeLCEpfwOTAj-ed3mZ0HNXAC-19NGTUz2Fq5P4opHDWDqqQOny00wC2Ha9Jd7SQJjRTVFn5MW49mdT6w4alatyYXku2SW6nDmEPxWp6nUhX-f7SGlYEc_aGihDcpXFf02v0hQJD_GaGG7nBV7oJgqb3Mhuv2offL-Hu2zS4aixhV?purpose=fullsize
+<img width="924" height="519" alt="image" src="https://github.com/user-attachments/assets/17660c41-4a8e-4a0f-a294-377c43db944b" />
+
 ## Step 2: Download an Operating System (ISO)
 An ISO file is an image file containing an operating system installer.
 
@@ -217,42 +227,48 @@ For beginners, Ubuntu is a good choice.
 **.** Visit Ubuntu Official Website.
 https://ubuntu.com/
 **.** Download the Ubuntu Desktop ISO file
-https://images.openai.com/static-rsc-4/5Bqx9qvwsNCBTgLAklXa4qND2DTrd4aBqPX9DJBhw9v8IIU2vdtlc_-Xk9QHiwNQdtmWf3R3y3A8xXlY_G-ZKlY0nvvyXT7KF2-7M9laigGZSUnqt_6-N2bjSmXyWNSa9zOGCOWaPsDgkXRyjblD1IsE6f4BE-i0sJbZJd1OlF8C_hz6OJ4pcJ2DfLSouSHB?purpose=fullsize
+<img width="1416" height="735" alt="image" src="https://github.com/user-attachments/assets/a83ebc2f-a2f7-4383-8157-15e4640040b7" />
+
 ## Step 3: Open VirtualBox
 1. Open Oracle VirtualBox.
 2. Click the New button.
 3. Enter your virtual machine name, for example, Ubuntu.
 4. Select the ISO image you downloaded.
 5. Select the operating system type and version if required.
-https://images.openai.com/static-rsc-4/Fw3FCxjtf_iVKBmYEKj10egxSTElPBlu5zgwzJwP8dwBMIhlLLIb3CzMyWWbSbas5K1e5OQp11OC5BZx-4BkgUy3QzDUkK0Mx2MNd-qDURQIP9RUTy04osz9tPvQKRN3VQEKlkoUghKjucgKnuynkDscbhQqnETJ6dGj4Ly_MNa0f8gACoOVkmrtXP-NVhDi?purpose=fullsize
+<img width="2168" height="1060" alt="image" src="https://github.com/user-attachments/assets/2d41b854-747d-4cf0-910f-47c6f514c85a" />
+
 ## Step 4: Allocate RAM and CPU
 Choose resources for your virtual machine.
 
 Example:
 **.** RAM: 4 GB (if your computer has enough memory).
 **.** CPU: 2 processors.
-https://images.openai.com/static-rsc-4/bcPcqx5FiaNWHA7yrjkXFtOdphqNtbe0QKudhiIV5L8fqwWqj9zWxdOo3t2lcHMyrRhou91efGymj7VKtYibNZtBa6llFCF2697BGAJJ82UoABNcBWxEb3HmsCKnVHc323sLSL8eNCRFP4ur7CJNMO0e8-3o46n5_85QFPZugIIM6UTaFUbvWTUFtzxhaVrJ?purpose=fullsize
+<img width="737" height="389" alt="image" src="https://github.com/user-attachments/assets/f125d80d-6acd-45fa-802f-e7fb33fdee82" />
+
 ## Step 5: Create Virtual Hard Disk
 1. Select Create a Virtual Hard Disk Now.
 2. Choose VDI format.
 3. Select Dynamically Allocated.
 4. Set disk size to around 25 GB or more for Ubuntu.
 5. Click Finish.
-https://images.openai.com/static-rsc-4/fRHZqv1P6_BUm2KFMJlLQzMnkn-Nof33Q4yiXGdATN0E6nMUuq-YWDryk0gxhFcgXWzeIueaCzhVNTPuBdIupiojQrhHerBJgPKApDRrbkMmUcJ1E1hC827CpVh35nAdbfGF-uZVvDGFXxxEITRb4zVtqKCyuICvSdKrZpC5Tek?purpose=inline
+<img width="1444" height="828" alt="image" src="https://github.com/user-attachments/assets/cdb11fff-8c8f-4da2-b23a-2e18257c8d68" />
+
 ## Step 6: Start the Virtual Machine
 1. Select your Ubuntu virtual machine.
 2. Click Start.
 3. The Ubuntu installer will open.
 4. Follow the installation instructions.
 5. Complete the installation.
-https://images.openai.com/static-rsc-4/x7euDWIeZAatXgUCiWxZ8C8FTAVRUf27g2kUABv1r9MH0YczSlB7Akytc030ys7_L9mz5LVEX9iUsHPUfdxj--XZkfqomC1nskaiSpLHM_79QrEu5uq4UIAq8xbV0UyUXeYa_nIC47iPMmCrIiA6p6lanJLAEIt-rHZN1wu3u-g?purpose=inline
+<img width="991" height="820" alt="image" src="https://github.com/user-attachments/assets/2da8b2db-acc7-4ecd-90dc-a784dacbf690" />
+
 ## Step 7: Run Your Virtual Machine
 After installation:
 **.** Start Ubuntu from VirtualBox.
 **.** Explore the Ubuntu desktop.
 **.** Open the terminal.
 **.** Practice Linux commands.
-https://images.openai.com/static-rsc-4/QjEjAWQxFpWQPDi5HLt6iCOxh7s0AuGbmufnxtqWl5q2cDFnYGop0ILO6BtOnlEsRGDfsi4mfkN0iDGlACiGTe0NfOptLrvyrDmeb9F3EXwins8LHEGGRwXX9TCtAjVHPzzC5Lw7S7xw0aizKcF5Y8igRaHcnVoNu6MhUGuBRHHm740EMsTrwYYm9RHvyws2?purpose=fullsize
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6aaeaa21-a752-4a66-9f22-d939d8850d5f" />
+
 # Day 9
 # 🔐 Using Virtual Machines (VM) in Cyber Security
 A Virtual Machine (VM) is widely used in Cyber Security for learning, testing, analyzing, and practicing security techniques in an isolated environment without affecting the main computer.
@@ -268,25 +284,30 @@ Cybersecurity professionals use VMs to create safe virtual labs where they can s
 7. Linux Learning: Practice Linux commands and cybersecurity tools.
 8. Safe Experimentation: Experiment without directly affecting the main operating system.
 ## 2. Popular Virtual Machines Used in Cyber Security
-https://images.openai.com/static-rsc-4/7UCKJThRDx6SLvBNIbP6UKAzKrrfagEJRdcjkCjtZ4jkrgl0lgmjr4w59uMOFFErbRyVVhns8GSzFSAg8yOpWsbP9aqk8r0kYfseP_gcg5LyZKcYtyiQHDkgChgF1o_EQ4Cv0DPSCRxEjiPhA1_W9skUIQkN00tkh9usPRDzHVXU0_gUq35al5nfFM65wU1D?purpose=fullsize
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6dfec81-19bf-4545-87c7-f943a441a3ea" />
+
 1. Kali Linux
 
 Used for ethical hacking, penetration testing, and security auditing.
 
 Official website: https://www.kali.org/
-https://images.openai.com/static-rsc-4/sSKSj6ex2V6fdyZEATyjBYc_6-KmEzZwCCG_WoM8e20_BAhyd9PRtAvCFrXLbgaitETS4BLsSh5V_vWTcxSLOOFdSyub55T_fcfHBByaJZmVRq3505Vr7sdZdAJOTfC23hdE1HJellEvqS4Fp9taGSvOqljEZaSFuGjKPyTz7NOzUZ5Apwu3MDGUjL73HGn4?purpose=fullsize
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bd629e3-156d-4bdb-9e41-3c37d7c323fe" />
+
 2. Parrot Security OS
 
 Used for security testing, digital forensics, and privacy.
 
 Official website: https://parrotsec.org/
-https://images.openai.com/static-rsc-4/QkF5Cb4UTEqegEvrr04nn1Rhda1773tf27j7vIUzY0TejEOm3PLbYAB01kheBAr_gnf8zs7bked4sspe_5iLIVr9Ajzr_IE6gkKY2vjOBW_JbjnKVB0a4_RpjXLYwyJLJ3mr7ZOom3rCjLLoj-0o2Ov86FKqKOQ3UuJll9gTpfO1Kq0BfoSopAJBDLy-xQRl?purpose=fullsize
+<img width="1280" height="912" alt="image" src="https://github.com/user-attachments/assets/bec29a5f-d0f5-45b9-ab95-045b3dd1d92b" />
+
 3. Ubuntu Linux
 
 Used for Linux learning, server security, and networking.
 
 Official website: https://ubuntu.com/
-https://images.openai.com/static-rsc-4/CDLOpBK2X5w15nHQvjI_mvEojCgQuexw9jGQhTQG3yPF6gn5HeR5NlcYQz4NyBpOk2IazjNnP6k3QlvjazfWVRp4FBlTMdv-p3P_d05OLswSmJmtQ1Z1lpdpDTUkJSsvnaUg8jxIhu-34Oyo5qZW9BctkdaNowL14uyjLFjfxKddVK4znZS7HEtscfSSwdDF?purpose=fullsize
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4fac7f5c-e6ea-4179-840a-04731ec66ce9" />
+
+
 4. Windows Virtual Machine
 
 Used for Windows security testing, application testing, and system administration.
@@ -335,7 +356,8 @@ You can install Kali Linux using:
 **.** Dual Boot: Install Kali alongside another operating system.
 **.** Live USB: Run Kali from a USB drive.
 ## 4. Kali Linux in VirtualBox
-https://images.openai.com/static-rsc-4/O6vI3SBMNw8x3YuytQD-Mtm6D8QlcPdZEYNf488GFtZMJFa0wwPVDJ-bLjJKmBkcTLbmMYWWBeeNp_0KcePVYxebK98pMUpGJEN6EmMmGBSne2MvXNaRZeUxg-4LeZBjUNawWSQVWJ5H7_iCfqAJxqQF1fy3L4kryQw5bXpgjVSCq5zLPN1wzk5IGtde7WTe?purpose=fullsize
+<img width="637" height="549" alt="image" src="https://github.com/user-attachments/assets/154e1693-c2e5-468d-9472-43d5f12ab20b" />
+
 Example:
 - Host Machine: Windows 11
 - Hypervisor: VirtualBox
@@ -354,7 +376,8 @@ Kali Linux is an important operating system in the field of Cyber Security. It h
 "Learn Ethical Hacking. Discover Vulnerabilities. Build a Secure Digital World!" 🛡️
 ## 🔐 Features of Kali Linux
 Kali Linux is a powerful, free, and open-source operating system designed for Cyber Security, Ethical Hacking, Penetration Testing, and Digital Forensics.
-https://images.openai.com/static-rsc-4/Nwql0xUFszGUMcYCMNCsaERdjkGW7WizNCxeTN1e7p0vNyjE5P-JRcX5f7Qpe7ov6hUOuc4traeyv1BGxz2sq9skGEj9_hu_1aC1cb-88GXy5aWoSQm6OrQbxO3mnmT2KTSUzvnqJJ_HlEhlkE3ndAh8YcA3h9rXv2lE-vlBufs?purpose=inline
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/585fb227-1085-4ec6-b9e1-15b787f16be0" />
+
 ### 1. Main Features of Kali Linux
 1. Free and Open Source: Kali Linux is freely available, and its source code can be modified and distributed under its licenses.
 
@@ -379,7 +402,8 @@ https://images.openai.com/static-rsc-4/Nwql0xUFszGUMcYCMNCsaERdjkGW7WizNCxeTN1e7
 Ethical hackers use Kali Linux because it provides many powerful security tools that help them identify vulnerabilities, test network security, and protect computer systems from cyber attacks.
 
 Kali Linux makes security testing easier by providing a collection of tools in one operating system.
-https://images.openai.com/static-rsc-4/YOm3-J40cNv5GqTAUXXwYWnqDaQ3bzNM4SRlCtAOkSVxIuyX0G65ZCUgURIE4GjR7gLvnfROHFL8j2CBg0V4yEq-8YOhfULuInlG2fXcPG2mxFOpZLg_GVXkVdXlbqXylpBmcwiVhz8WvJpLlBuqTZQdoGnKRC_PpUnNvR4kQQo?purpose=inline
+<img width="1560" height="946" alt="image" src="https://github.com/user-attachments/assets/394eb2ab-9bc1-4b32-a5a9-7ff1bcaaa52b" />
+
 ### 1. Main Reasons to Use Kali Linux
 1. Penetration Testing: Helps ethical hackers test the security of authorized systems.
 
@@ -397,19 +421,23 @@ https://images.openai.com/static-rsc-4/YOm3-J40cNv5GqTAUXXwYWnqDaQ3bzNM4SRlCtAOk
 
 8. Free and Open Source: Anyone can download and use Kali Linux without purchasing an operating system license
 ## 2. Popular Tools Used by Ethical Hackers
-https://images.openai.com/static-rsc-4/FZhY-Z-IIjd7QUHWzBBlqD238TUTp-Yo4UJ6se1_O9S-FD-k5Y9Wi6pMQGSIBXtX-gC4HtOIXwXH0MUpXVioqs-et1zBSET-ScUDETKd43E4eMTT1ucgTAufg41NdefK7IHWjfvzPOS-r8TgWspza0vLlTRnu7Km-hTaupwxfpA?purpose=inline
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/00a0ec8f-4c0b-4742-a25f-5a78c2e7db85" />
+
 Nmap
 
 Used for network discovery and security auditing.
-https://images.openai.com/static-rsc-4/oJZW8RmjLpqHgZS2dXuOFo14QOFy-z9miRiTh4SLmfwtIzYoyIIKg1BItfE76DyfvAU2cW15J_11z9Y2UqDql82OaOCkzGeU-SujZlqc8TU6dXj7vQ3OxuXyPQzBegS-dpbKOnnzyQifqr77kFnpvsdJ_g5p-e6OCo9cVG1BRJU?purpose=inline
+<img width="960" height="958" alt="image" src="https://github.com/user-attachments/assets/2d16f63c-757c-425b-aa91-50580cb21804" />
+
 Wireshark
 
 Used for network traffic analysis.
-https://images.openai.com/static-rsc-4/1JRIiMSs7rAo_XwPazhTIhCyFsSK0V1t655pW0RdIf9mk0iNyp76T_mOLGFYykBySH9amqCphJ_JPQPN4F_NQ_b4FzQKP89ARHY_WUndiVQU4GlaAhzjmD-AYXX-gp924-lS6T09BOZv-UCtDpgCPbKPHKkIAqgcL7MfgB7j0_M?purpose=inline
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0384fb16-d0b5-4fbf-8e95-cb808de0e5f1" />
+
 Metasploit
 
 Used for authorized penetration testing.
-https://images.openai.com/static-rsc-4/EAyPQf6ad9Rnv3xo9a1XNqT4VmmXvmXDCC4GZKw9YXvtTTzI5wtxdC_wxY5borR2V-fZ391gFiszakUqtKKEpvbCJYPASzPDxpMOr2R6RAQiB8ABvP-VbG7qF4gz8FtvkgiMfuNnPj9Oe8n15RgEPVsOKztI1EprihdZrJ84bng?purpose=inline
+<img width="719" height="720" alt="image" src="https://github.com/user-attachments/assets/16160dbe-6940-4f92-afd1-ba3391d9f705" />
+
 Burp Suite
 
 Used for web application security testing.
@@ -449,7 +477,8 @@ Remember: Kali Linux is a tool for security professionals and students. Always p
 In Kali Linux, directories are folders used to store system files, configuration files, applications, user data, and other important information.
 
 Linux follows a hierarchical file system that starts from the root directory /.
-https://images.openai.com/static-rsc-4/UdLoZpO7WuapFzA7LGag5zVqDavtvyFart2RMQuO8wmLz2Sc-HyDxdxMajl4RFmC6R1yQl3fzpnoov8kAu0UOAg48fS42Wu62US87Xi-fQcya0H9sChvoNX5fLzvv2mjdGtI6e-BpiaUqqAaNVoxDfG8ZYe2Xwb7vDLkSfxfMOhSHDLgxd8uKEUPjcKhJR08?purpose=fullsize
+<img width="1200" height="655" alt="image" src="https://github.com/user-attachments/assets/2642f6d9-389f-48cc-8b70-01e163a91212" />
+
 1. Important Directories and Their Uses
 Directory	Purpose
 /	Root directory; main directory of Linux.
@@ -521,12 +550,14 @@ Remember: / is the root directory, /home stores user files, and /etc stores conf
 An Ethical Hacker is a cybersecurity professional who tests computer systems, networks, and applications with proper permission to identify security weaknesses and help protect them from cyber attacks.
 
 Main purpose: To protect systems and improve security.
-https://images.openai.com/static-rsc-4/RXnC62ym8ldGfgQCgDRQ0nWPnywtHkeHub7G4n1XpT3YHY7LKxNaM3TQoHWop8-zEcke-u9qive8ajMQxPg1vpVhmNOdU7EvHrUMSIFzoLCMTy5lW2KH2bCKwCd3JKxr-eh1WzAu0NFTQbTW7f9Blsm4Q2cFaTjYIMvFCr1CfVY?purpose=inline
+<img width="1200" height="677" alt="image" src="https://github.com/user-attachments/assets/430968c8-b586-4af7-9ea2-4383c7fabd1d" />
+
 ## 2. What is a Malicious Hacker?
 A Malicious Hacker is a person who accesses computer systems, networks, or data without permission for harmful or illegal purposes.
 
 Main purpose: To steal information, cause damage, or gain unauthorized benefits.
-https://images.openai.com/static-rsc-4/vAd1vWrAR1pkIPPVIbroH-3l6f_c0WBS4ePOamfy_7LliFo0FeDXzBSFFWop-mItEsD7ZNVe8sJ1mAIqHQntS72JuVuOkejguyroNWMIBuc6pj0Y0ASnIrDiwmPVBPbNfiYYbrH0byGYw9ZgQJcYaSSGvNKYg184t_kSfSxEgz4?purpose=inline
+<img width="1200" height="677" alt="image" src="https://github.com/user-attachments/assets/4a9109ab-94d5-49d0-bea0-811a42fc0296" />
+
 # Day 12(My Project)
 # Title(Caesar Cipher)
 ## Description
