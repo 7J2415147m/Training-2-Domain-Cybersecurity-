@@ -1,4 +1,4 @@
-# Training-2-Domain-Cybersecurity-
+# Training-2 **(Domain -> Cybersecurity)**
 # Day 1
 ## 🔐 Introduction to Cyber Security
 
