@@ -566,4 +566,13 @@ Main purpose: To steal information, cause damage, or gain unauthorized benefits.
 **.** Brute-force crack unknown ciphertext by testing all 26 shifts
 **.** Frequency analysis ranking to identify the most likely plaintext
 **.** Clean Rich terminal output with colored tables
+## 🔐 Caesar Cipher Project
+
+### Project Files
+
+- [README.md](./README.md)
+- [Source Code](./src/)
+- [Assets](./assets/)
+- [Tests](./tests/)
+- [Demo](./DEMO.md)
 
